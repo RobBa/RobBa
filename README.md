@@ -1,8 +1,8 @@
 ## Hi, I'm Robert 👋
 
-Software engineer with a PhD in Computer Science (TU Delft) and background in Electrical Engineering.
+Software engineer and ex-PhD candidate in Computer Science (TU Delft), defense date TBA, and background in Electrical Engineering.
 
-### What I'm Working On
+### Working On
 
 🔧 **Deep Learning Library** - Building a computational graph framework in C++ with Python bindings <br />
 ⚡ **Performance Optimization** - CUDA kernels, algorithmic optimization <br />
@@ -10,13 +10,14 @@ Software engineer with a PhD in Computer Science (TU Delft) and background in El
 
 ### Tech Stack
 
-**Languages:** C++, Python, C#  
+**Languages:** C++, Python, C#
 **Focus Areas/Areas of Interest:** ML systems, performance optimization
 **Current Learning:** CUDA, MLOps
+**Tools:** Git, CMake
 
 ### Research
 
-Almost PhD in Computer Science (2020-2024) at [TU Delft Cyber-Analytics Lab](link) (Work finished, defense date TBA)
+PhD candidate in Computer Science (2020-2025) at [TU Delft Cyber-Analytics Lab](link)
 - 4 first-author publications on statistical inference of state machines, one under review, see my [homepage](https://robba.github.io/subpages/research.html)
 - Core developer of [Flexfringe](https://github.com/tudelft-cda-lab/FlexFringe) active learning library
 
