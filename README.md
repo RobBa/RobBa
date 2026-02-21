@@ -4,9 +4,9 @@ Software engineer with a PhD in Computer Science (TU Delft) and background in El
 
 ### What I'm Working On
 
-**Deep Learning Library** 🔧 - Building a computational graph framework in C++ with Python bindings
-**Performance Optimization** ⚡ - CUDA kernels, algorithmic optimization 
-**Active Learning Systems** 🧠 - Research on state machine learning and surrogate models for language models
+🔧 **Deep Learning Library** - Building a computational graph framework in C++ with Python bindings <br />
+⚡ **Performance Optimization** - CUDA kernels, algorithmic optimization <br />
+🧠 **Active Learning Systems** - Research on state machine learning and surrogate models for language models <br />
 
 ### Tech Stack
 
