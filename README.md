@@ -1,8 +1,26 @@
-## Hey 👋
+## Hi, I'm Robert 👋
 
-I am Robert. I am an almost self-taught software engineer with a background in electrical engineering. I graduated from the <a href="https://www.uni-stuttgart.de/en/" target="_blank">University of Stuttgart</a> from my undergraduates and the <a href="https://www.tum.de/en/" target="_blank">Technical University of Munich</a> from my graduate studies. From 2020 to end of 2024 I have been conducting research as part of a PhD at the <a href="https://cyber-analytics.nl" target="_blank">cyber-analytics lab</a> at the TU Delft. Here I have been conducting research on state machine learning algorithms, mostly to learn from data streams and to infer surrogate models from neural networks. More on my research can be found <a href="https://robba.github.io" target="_blank">on my homepage</a>. During this time I have also been working extensively on the <a href="https://github.com/tudelft-cda-lab/FlexFringe" target="_blank">Flexfringe tool</a>, where I have mostly implemented the active learning library.
+Software engineer with a PhD in Computer Science (TU Delft) and background in Electrical Engineering.
 
-Apart from that I code mostly in C++, C# and Python, with most applications so far in either the application domain or the ML domain. But I am always curious and like to expand my knowledge. Lately I am reading up on embedded systems, and I am practicing on an ARM Cortex-M4 microcontroller from ST Microelectronics. A description of the controller can be found <a href="https://www.st.com/en/evaluation-tools/stm32f4discovery.html" targer="_blank">here</a>. I will post more projects that I have been working on here at a later point in time.
+### What I'm Working On
+
+🔧 **Deep Learning Library** - Building a computational graph framework in C++ with Python bindings
+⚡ **Performance Optimization** - CUDA kernels, algorithmic optimization 
+🧠 **Active Learning Systems** - Research on state machine learning and surrogate models for language models
+
+### Tech Stack
+
+**Languages:** C++, Python, C#  
+**Focus Areas/Areas of Interest:** ML systems, performance optimization
+**Current Learning:** CUDA, MLOps
+
+### Research
+
+Almost PhD in Computer Science (2020-2024) at [TU Delft Cyber-Analytics Lab](link) (Work finished, defense date TBA)
+- 4 first-author publications on statistical inference of state machines, one under review, see my [homepage](https://robba.github.io/subpages/research.html)
+- Core developer of [Flexfringe](https://github.com/tudelft-cda-lab/FlexFringe) active learning library
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/robertbaumg) | [Homepage](https://robba.github.io/index.html)
 
 <!--
 **RobBa/RobBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
