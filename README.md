@@ -1,6 +1,6 @@
 ## Hi, I'm Robert 👋
 
-Software engineer and ex-PhD candidate in Computer Science (TU Delft), defense date TBA, and background in Electrical Engineering.
+Software engineer and PhD candidate in Computer Science (work submitted) with a background in electrical engineering.
 
 ### Working On
 
