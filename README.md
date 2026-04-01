@@ -4,16 +4,16 @@ Software engineer and ex-PhD candidate in Computer Science (TU Delft), defense d
 
 ### Working On
 
-🔧 **Deep Learning Library** - Building a computational graph framework in C++ with Python bindings <br />
-⚡ **Performance Optimization** - CUDA kernels, algorithmic optimization <br />
-🧠 **Active Learning Systems** - Research on state machine learning and surrogate models for language models <br />
+🔧 **Deep Learning Library** - Building a computational graph framework in C++ with Python bindings <br>
+⚡ **Performance Optimization** - CUDA kernels, algorithmic optimization <br>
+🧠 **Active Learning Systems** - Research on state machine learning and surrogate models for language models <br>
 
 ### Tech Stack
 
-**Languages:** C++, Python, C#
-**Focus Areas/Areas of Interest:** ML systems, performance optimization
-**Current Learning:** CUDA, MLOps
-**Tools:** Git, CMake
+**Languages:** C++, Python, C# <br>
+**Focus Areas/Areas of Interest:** ML systems, performance optimization <br>
+**Current Learning:** Better CUDA <br>
+**Tools:** Git, CMake <br>
 
 ### Research
 
