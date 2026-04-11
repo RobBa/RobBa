@@ -21,7 +21,7 @@ PhD candidate in Computer Science (2020-2025) at [TU Delft Cyber-Analytics Lab](
 - 4 first-author publications on statistical inference of state machines, one under review, see my [homepage](https://robba.github.io/subpages/research.html)
 - Core developer of [Flexfringe](https://github.com/tudelft-cda-lab/FlexFringe) active learning library
 
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/robertbaumg) | [Homepage](https://robba.github.io/index.html)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/robertbaumg) | [Homepage](https://robba.github.io/index.html) | [Blog](https://robba.github.io/blog/)
 
 <!--
 **RobBa/RobBa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
