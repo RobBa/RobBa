@@ -10,7 +10,7 @@ Software engineer and PhD candidate in Computer Science (work submitted) with a 
 
 ### Tech Stack
 
-**Languages:** C++, Python, C# <br>
+**Languages:** C++, Python, C#, CUDA <br>
 **Focus Areas/Areas of Interest:** ML systems, performance optimization <br>
 **Current Learning:** Better CUDA <br>
 **Tools:** Git, CMake <br>
